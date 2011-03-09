@@ -1,0 +1,9 @@
+WTTMGW---Arduino-Client
+
+WhatsTheTimeMajorGeneralWolfe is a project to build a mesh networked set of timepieces. It might consist of an embeded time server and a set of clients - the server picks up time from an accurate source (we're using MSF of course) and distributes it to clients. The clients can then serve as accurate timepieces, out of range of a time signal and un-connected to any physical network.
+
+This repo is for the client, which we're building with Xbee's and Arduinos.
+
+This is a project by the Exhibit Development Unit at the National Maritime Museum, Royal Observatory & Queens House, Greenwich, London
+
+And this is sort of a test
